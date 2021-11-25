@@ -8,7 +8,7 @@
 
 ##### 下载安装
 ```bash
-$ go get -u github.com/huangfuhui/umeng-push
+$ go get -u github.com/globalchainapi/umeng-push
 ```
 
 ##### 使用示例
@@ -16,7 +16,7 @@ $ go get -u github.com/huangfuhui/umeng-push
 package main
 
 import (
-	"github.com/huangfuhui/umeng-push"
+	"github.com/globalchainapi/umeng-push"
 	"log"
 )
 
