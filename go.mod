@@ -1,3 +1,3 @@
-module github.com/huangfuhui/umeng-push
+module github.com/globalchainapi/umeng-push
 
 go 1.13
